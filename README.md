@@ -39,15 +39,16 @@ Let's configure our first ticket as a user! Click "Open a New Ticket" and input 
 
 ![Lab2-2](https://github.com/user-attachments/assets/862b918a-c0b6-4116-9487-ed512f98c533)
 
-To view the ticket and make changes, log on to your Help Desk 1 Agent's account and select "Open Tickets". Click on the created ticket and observe the properties of the ticket.
+To view the ticket and make changes, log on to your Help Desk 1 Agent's account and select "Open Tickets". Click on the created ticket and observe the properties of the ticket. On observation, we can infer that this ticket has a wide and severe business impact because the accessbility is compromised.
 
 ![Lab2-3](https://github.com/user-attachments/assets/e1b2055d-463c-4832-9ade-c72ab6c147a2)
-
 ![Lab2-4](https://github.com/user-attachments/assets/44abd1b3-a368-47e5-918a-d062079251c4)
 
-Now that we assigned the ticket and SLA, we can work through the ticket as our SystemAdmins account.
+As Help Desk 1 set the SLA as Sev-A. Update the Help Topic to Report a Problem/Business Critical Outage for a better description of the issue. Update the Priority level to Emergency, and finally assign the ticket to our department Online Banking. The ticket has now been elevated and as Help Desk 1, you will no longer be able to make any changes to the ticket.  
 ![Lab2-5](https://github.com/user-attachments/assets/82249b4e-d631-4125-9df8-ca9105ebb3c8)
 ![Lab2-6](https://github.com/user-attachments/assets/5f9d85a6-16be-43cb-96f1-2014a39e969d)
+![Lab2-7](https://github.com/user-attachments/assets/ea8aaa60-b839-4883-8cd7-363add676d59)
+![Lab2-8](https://github.com/user-attachments/assets/451f6935-3eb0-46bf-8dee-bc62f2763f31)
 
 </p>
 <br />
